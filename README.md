@@ -1,2 +1,3 @@
 # hello-word
-My firts repository
+
+Hi, I just wanna learn about everything!!
